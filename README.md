@@ -7,3 +7,6 @@
 
 ### About me
 I am a Privacy Enthusiast and Linux Nerd from Europe, looking to get into Open Source Dev. Right now I go to college (IT Security). Besides that I am writing on my [blog](https://uraltemorla.xyz) about Privacy, Krypto, Law and related topics.
+
+### Other projects from me
+Here on GitHub I only have some old repositories or stuff I work on with other people and forked repositories. For other projects you can have a look over at my self hosted [Gitea](https://gitea.uraltemorla.xyz/laeberkaes) instance.
