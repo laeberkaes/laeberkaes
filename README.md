@@ -1,7 +1,7 @@
 ## Welcome to my private Page
 
 - 🔭 I’m currently working on my blog over at [my website](https://uraltemorla.xyz) and some LaTeX templates for scientific papers and presentations.
-- 🌱 I’m currently learning DataScience, Krypto, privacy, computer law
+- 🌱 I’m currently learning DataScience, Krypto, privacy, IT law
 - 👯 I’m looking to collaborate on LaTeX, Python, DataScience and other interesting stuff.
 - 💬 Ask me about anything you like. Just ping me here or on [matrix](https://matrix.to/#/@laeberkaes:uraltemorla.xyz).
 
